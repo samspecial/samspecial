@@ -10,7 +10,7 @@
 - 🤔 I’m looking for help with distributed system designs and data structures
 - 💬 Ask me about JavaScript and .NET
 - 📫 How to reach me: psalmueloye@gmail.com
-- 😄 Pronouns: He/She
+- 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: Never had a bite of Pizza
 - Familiar 
 
