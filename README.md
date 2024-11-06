@@ -3,11 +3,11 @@
 
 
 
-- 🔭 I’m currently working on Electric Rescue
+- 🔭 I’m currently working on a CRM tool. That's where I have most of my recent commits
 - :computer: I am Full stack MERN and .NET developer.
-- 🌱 I’m currently learning Web3 (Solidity) with NestCoin Hack
+- 🌱 I have proficiency in Web3 (Smart contract) development
 - 👯 I’m looking to collaborate on any developer productivity tools
-- 🤔 I’m looking for help with distributed system designs and data structures
+- 🤔 I’m looking for help with distributed system designs
 - 💬 Ask me about JavaScript and .NET
 - 📫 How to reach me: psalmueloye@gmail.com
 - 😄 Pronouns: He/Him/His
